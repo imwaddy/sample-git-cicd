@@ -12,6 +12,7 @@ func TestSum(t *testing.T) {
 		{1, 2, 3},
 		{2, 2, 4},
 		{5, 2, 7},
+		{5, 2, 6},
 	}
 
 	for _, table := range tables {
